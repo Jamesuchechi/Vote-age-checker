@@ -1,3 +1,5 @@
 Name: James uchechi, Age: 28, Status: Eligible
 Name: Uchechi, Age: 23, Status: Eligible
 Name: Alaba, Age: 19, Status: Eligible
+Name: Jamesuchechi, Age: 27, Status: Eligible
+Name: alaba, Age: 17, Status: Not Eligible
